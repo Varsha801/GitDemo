@@ -7,6 +7,7 @@ public class day1 {
 	@BeforeSuite
 	public void Beforesuite() {
 		System.out.println("Executes before all methods in suite");
+		System.out.println("Executes before all methods in suite");
 	}
 	
 	@BeforeClass
