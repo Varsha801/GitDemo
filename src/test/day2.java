@@ -13,6 +13,8 @@ public class day2 {
 	@Test(groups= {"Smoke"})
 	public void HomeLoanLogin() {
 		System.out.println("HomeLogin");
+		System.out.println("develop code");
+		System.out.println("develop code");
 	}
 	
 	@AfterTest
