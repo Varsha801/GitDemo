@@ -13,6 +13,8 @@ public class day1 {
 	@BeforeClass
 	public void Beforeclass() {
 		System.out.println("Executes before all methods in class");
+		System.out.println("develop code");
+		System.out.println("develop code");
 	}
 	
 	@Test(groups= {"Smoke"})
